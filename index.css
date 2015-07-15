@@ -1,0 +1,114 @@
+.google{
+height: 100%;
+width: 100%;
+}
+
+.logo{
+height: 100px;
+width: 300px;
+position: relative;
+    top: 175px;
+margin: auto;
+
+}
+
+.searchbar{
+width: 500px;
+height: 20px;
+position: relative;
+    top: 185px;
+    bottom: 30%;
+margin-left: 430px;
+}
+
+.buttons{
+width: 360px;
+height: 30px;
+position: relative;
+top: 200px;
+left: 41%;
+
+}
+
+.button{
+background-color: #F1F1F1;
+padding: 4px;
+border: solid 1px;
+border-color: #DDDDDD;
+color: #4A4A4A;
+font-size: 75%;
+font-weight: bold;
+margin-right: 8px;
+}
+
+.sign{
+background-color: #0066FF;
+color: white;
+border: 0;
+padding: .5em;
+padding-top: .3em;
+padding-bottom: .3em;
+font-weight: bold;
+}
+
+.lowerNav{
+position: absolute;
+bottom: 0;
+height: 2.3em;
+width: 99%;
+background-color: #F1F1F1;
+border-top: solid 1px;
+border-color: #D4D4D4;
+}
+
+.rightLower{
+position: relative;
+float: right;
+left: -40px;
+padding-top: 5px;
+}
+
+.leftLower{
+position: relative;
+float: left;
+left: 40px;
+padding-top: 5px;
+}
+
+.lowerNav li{
+padding-right: .3em;
+}
+
+ul{
+width: 15%;
+position: relative;
+top: -150px;
+float: right;
+list-style-type: none;
+margin: 0;
+padding: 0;
+padding-right: 2%;
+}
+
+li{
+display: inline;
+margin-right: .5em;
+font-family: arial;
+font-size: 80%;
+}
+
+a:link {
+	color: #4A4A4A;
+    text-decoration: none;
+}
+
+a:visited {
+	color: #4A4A4A;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
